@@ -1,8 +1,8 @@
-Darel Evrard Kigha Mohmbah-Data & BI Analyst
-Hi, i'm Darel Evrard Kigha Mohmbah
-Bachelor's in Transport and Logistics | Weiterbildung in Data Analytics
-Based in Germany
-Passionate about data analytics, process automation, and transforming complex information into strategic insights.
+## Darel Evrard Kigha Mohmbah-Data & BI Analyst
+## Hi, i'm Darel Evrard Kigha Mohmbah
+## Bachelor's in Transport and Logistics | Weiterbildung in Data Analytics
+## Based in Germany
+## Passionate about data analytics, process automation, and transforming complex information into strategic insights.
 
 ## Tools & Technologies
 
