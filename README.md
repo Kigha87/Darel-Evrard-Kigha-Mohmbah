@@ -25,7 +25,7 @@ Version Control & Collaboration: Git, Github.
 I’m focused on bridging data analytics, business intelligence, and process management to create value-driven solutions.
 My goal is to design scalable, data-centric systems that empower organizations to make smarter, faster, and more sustainable decisions.
 
-Reach me at (evradarell@gmail.com)[evradarell@gmail.com]
+Reach me at [evradarell@gmail.com](#evradarell@gmail.com)
 
 "Calmly but surely, i'm building the foundation of my career - one project at a time."
 
