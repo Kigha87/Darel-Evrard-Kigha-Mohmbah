@@ -1,6 +1,6 @@
 
 👋 Hi, i'm Darel Evrard Kigha Mohmbah | 
-🎓 Bachelor's in Transport and Logistics | Weiterbildung in Data Analytics | 💡 Binding Data, Automation & Business Impact
+🎓 Bachelor's in Transport and Logistics | Weiterbildung in Data Analytics with focus on Business Intelligent | 💡 Binding Data, Automation & Business Impact
 🌎 Based in Germany.
 🚀 Passionate about data analytics, process automation, and transforming complex information into strategic insights.
 
