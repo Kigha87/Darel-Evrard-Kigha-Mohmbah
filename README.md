@@ -12,7 +12,7 @@ Cloud & ETL: GCP, Snowflake, DBT, Fivetran, and Databricks.
 Version Control & Collaboration: Git, Github.
 
 ## 🛠️ What I Worked On:
-- built an intelligent, automated stock analysis tool that retrieves real-time stock data, analyzes performance trends, and generates natural-language financial summaries using an LLM
+- built an intelligent, automated stock analysis tool that retrieves real-time stock data, analyzes performance trends, and generates natural-language recommended summaries using an LLM
 - designing a structured database and dashboard to analyze campaign and client data.
 - analyzing performance data to provide insights on user growth, revenue, and operational efficiency.
 - segmenting customer data to deliver insights that support targeted marketing and engagement strategies.
